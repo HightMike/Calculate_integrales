@@ -18,7 +18,7 @@ public class Home { // метод прямоугольников
             double x=a;
             double y = 0; // f
 
-            double sum =0;
+            double sum =0;//
 
             for (int i=1; i<=n; i++) {
                 l=(x+h/2);
